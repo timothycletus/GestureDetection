@@ -1,0 +1,31 @@
+# Virtual environment
+env/
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large data files (optional - uncomment if you don't want to track videos)
+# data/Videos/
+# *.mp4
+# *.MOV
+# *.avi
+# *.mkv
+
+# Generated CSV files (optional - uncomment if you want to regenerate)
+# data/*.csv
